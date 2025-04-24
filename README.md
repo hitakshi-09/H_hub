@@ -1,4 +1,4 @@
-# 🏥 Hospital Finder - Interactive Data App
+# 🏥 Hospital_hub - Interactive Data App
 
 This project is a Python-based interactive hospital filtering tool built from a Jupyter Notebook. It allows users to filter hospital data based on departments and various medical services.
 
@@ -47,14 +47,8 @@ To run this notebook locally:
 Install them with:
 
 
-pip install pandas matplotlib
+      pip install pandas matplotlib
 
-
----
-
-## 📝 License
-
-MIT License
 
 ---
 
