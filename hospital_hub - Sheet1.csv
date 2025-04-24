@@ -1,0 +1,152 @@
+Sr.No.,Hospital_Name,Department,No _of_doctors,Rating,Address,Contact_info,Facility,Mediclaim,Ayushman_Card,Emergency_Service,Availability_of_Ambulance,Total_Beds,Booked_Beds,Staff_Members,Availability_Time
+1,Shraddha Arogya Mandir Hospital,Orthopedics,4,4.5,"St Bus Stand Rd, behind hotel kaveri, Rayon Housing Society",6499155233,ICU,TRUE,TRUE,FALSE,FALSE,18,6,9,8:00 AM to 5:00 PM
+2,Dolakia Hospital,General Surgery,5,5,"2nd Floor, J B Complex, Junagadh",4405717659,ICU,TRUE,TRUE,TRUE,TRUE,14,1,7,9:00 AM to 6:00 PM
+3,Kazi Hospital,Opthamalogy,2,4,"Dhasa, Gujarat 364740",8540640151,ICU,TRUE,FALSE,FALSE,FALSE,11,4,6,8:30 AM to 5:30 PM
+4,N.M. Lakhani Hospital,Cardiology,3,4.1,"Rajyash Rise, Ahmedabad",2390223926,Non-ICU,TRUE,TRUE,TRUE,FALSE,10,6,5,10:00 AM to 7:00 PM
+5,Life Care Hospital,Orthopedics,4,3.5,35237 Talmadge Center,7786453248,Non-ICU,FALSE,FALSE,TRUE,,24,6,12,8:00 AM to 5:00 PM
+6,Shreeji Orthopaedic Hospital,Orthopedics,5,4.5,20917 Claremont Crossing,1441547740,ICU,TRUE,FALSE,FALSE,FALSE,24,7,12,9:00 AM to 6:00 PM
+7,Aditya Children’s Hospital,Pediatrics,3,3.5,14 Sycamore Alley,1326620238,ICU,FALSE,TRUE,TRUE,TRUE,13,1,7,8:30 AM to 5:30 PM
+8,Shreenathji Hospital,General Surgery,3,3.5,8 Springs Plaza,5417892137,ICU,FALSE,TRUE,,FALSE,,9,13,9:00 AM to 6:00 PM
+9,K J MULTISPECIALITY HOSPITAL,General Surgery,4,4.5,8 Memorial Point,5601461275,ICU,TRUE,FALSE,TRUE,FALSE,9,4,5,8:00 AM to 5:00 PM
+10,Government Civil Hospital,Dermatology,2,3.5,21052 Walton Avenue,7654850906,Non-ICU,TRUE,FALSE,TRUE,TRUE,11,10,6,8:30 AM to 5:30 PM
+11,K J MULTISPECIALITY HOSPITAL,Neurology,4,4.2,94 Prairieview Terrace,9122087744,Non-ICU,,TRUE,FALSE,FALSE,15,1,8,9:00 AM to 6:00 PM
+12,Madhuram Children Hospital,Pediatrics,3,4.2,93 Victoria Junction,5061976441,ICU,TRUE,FALSE,FALSE,FALSE,24,17,12,8:00 AM to 5:00 PM
+13,Barmeda Surgical Hospital,Orthopedics,2,,9 5th Court,1157978076,Non-ICU,TRUE,TRUE,FALSE,TRUE,18,9,9,8:30 AM to 5:30 PM
+14,N.M. Lakhani Hospital,Psychiatry,1,4.6,5 Sloan Pass,3582919146,Non-ICU,FALSE,FALSE,,FALSE,11,2,6,9:00 AM to 6:00 PM
+15,Vaja Hospital,Urology,0,5,704 Knutson Circle,7183281069,ICU,TRUE,TRUE,FALSE,TRUE,21,8,11,8:00 AM to 5:00 PM
+16,Dolakia Hospital,Ophthalmology,4,,024 Stephen Lane,7253828693,ICU,FALSE,FALSE,TRUE,TRUE,25,1,13,8:30 AM to 5:30 PM
+17,Krishna ENT Hospital,ENT,6,2.4,413 Maple Circle,6040729314,ICU,FALSE,FALSE,TRUE,FALSE,25,19,13,8:00 AM to 5:00 PM
+18,Aum Children Hospital,Pediatrics,3,4.3,8123 Riverside Plaza,3789695713,ICU,TRUE,FALSE,FALSE,FALSE,9,6,5,9:00 AM to 6:00 PM
+19,Shreenathji Hospital,General Medicine,2,3.6,4 Surrey Terrace,8905405983,Non-ICU,,FALSE,FALSE,TRUE,18,5,9,8:00 AM to 5:00 PM
+20,Government Civil Hospital,Gynecology,1,4.8,5 Rieder Point,9371686128,Non-ICU,FALSE,,TRUE,TRUE,23,20,12,8:30 AM to 5:30 PM
+21,Shraddha Arogya Mandir Hospital,Pediatrics,4,3.7,0923 Lyons Way,9242303127,Non-ICU,FALSE,FALSE,TRUE,FALSE,17,14,9,9:00 AM to 6:00 PM
+22,Takvani Hospital,Cardiology,5,4.5,84 Clemons Pass,6984099821,ICU,TRUE,FALSE,TRUE,FALSE,16,9,8,8:00 AM to 5:00 PM
+23,KM Eye Hospital,Ophthalmology,3,,0 Grover Trail,4349503599,ICU,FALSE,FALSE,TRUE,FALSE,13,12,7,10:00 AM to 7:00 PM
+24,Dolakia Hospital,Oncology,2,4,9280 Schmedeman Court,3031750272,Non-ICU,TRUE,,TRUE,FALSE,14,13,7,8:30 AM to 5:30 PM
+25,Shraddha Arogya Mandir Hospital,ENT,3,3.5,3979 Summerview Junction,5576381296,Non-ICU,TRUE,TRUE,FALSE,FALSE,22,13,11,8:00 AM to 5:00 PM
+26,Barmeda Surgical Hospital,Gynecology,3,4.2,16544 Clove Road,1972393241,Non-ICU,TRUE,FALSE,TRUE,TRUE,18,9,9,9:00 AM to 6:00 PM
+27,K J MULTISPECIALITY HOSPITAL,Pediatrics,3,4.2,99 Oak Junction,7482545287,Non-ICU,TRUE,TRUE,TRUE,FALSE,25,4,13,8:30 AM to 5:30 PM
+28,Khokhani Clinic,General Medicine,3,4.1,7174 Fuller Street,5629945736,ICU,TRUE,TRUE,,TRUE,21,16,11,8:00 AM to 5:00 PM
+29,Aum Children Hospital,Orthopedics,4,3.1,7 Morning Way,9653092594,ICU,FALSE,TRUE,FALSE,FALSE,19,18,10,9:00 AM to 6:00 PM
+30,Sunshine Hospital ,Oncology,3,3.6,32 Laurel Park,7658968479,Non-ICU,TRUE,FALSE,FALSE,TRUE,17,1,9,9:00 AM to 6:00 PM
+31,Dolakia Hospital,Urology,5,4.8,27 Scofield Trail,5469409777,Non-ICU,,FALSE,TRUE,FALSE,18,15,9,8:30 AM to 5:30 PM
+32,Harmony General Hospital ,Orthopedics,3,3.7,65 Weeping Birch Court,6146108662,Non-ICU,TRUE,TRUE,FALSE,TRUE,24,12,12,8:00 AM to 5:00 PM
+33,Thesia Maternity Home and Gynaec Surgical Hospital,Obstetrics & Gynecology,6,4.5,593 Artisan Lane,8228281544,ICU,TRUE,FALSE,TRUE,FALSE,17,8,9,10:00 AM to 7:00 PM
+34,Netra Raksha Eye Hospital,Ophthalmology,2,4,60 Ryan Park,3537488981,Non-ICU,TRUE,TRUE,TRUE,FALSE,22,21,11,8:30 AM to 5:30 PM
+35,Barmeda Surgical Hospital,General Surgery,4,4.1,1892 Kropf Lane,6746994186,Non-ICU,FALSE,TRUE,FALSE,FALSE,9,8,5,8:00 AM to 5:00 PM
+36,Shreenathji Hospital,Cardiology,2,3.5,0652 Arkansas Hill,5340517549,ICU,FALSE,TRUE,FALSE,FALSE,12,7,6,9:00 AM to 6:00 PM
+37,Gajera Ramesh Ortho Hospital,Orthopedics,1,4.5,0278 Village Green Street,8145720868,ICU,,,FALSE,TRUE,24,13,12,8:00 AM to 5:00 PM
+38,Madhuram Children Hospital,Gynecology,2,3.8,0 Pankratz Plaza,5373092890,Non-ICU,TRUE,,FALSE,FALSE,19,2,10,8:30 AM to 5:30 PM
+39,N.M. Lakhani Hospital,ENT,2,4.2,981 Sloan Point,5283570236,ICU,TRUE,TRUE,,TRUE,19,11,10,9:00 AM to 6:00 PM
+40,Life Care Hospital,General Medicine,2,4.2,14123 3rd Hill,6622094375,Non-ICU,FALSE,TRUE,FALSE,FALSE,24,21,12,8:00 AM to 5:00 PM
+41,K J MULTISPECIALITY HOSPITAL,Dermatology,3,2.5,693 Westport Terrace,6279766530,Non-ICU,FALSE,FALSE,FALSE,TRUE,20,8,10,8:30 AM to 5:30 PM
+42,Shraddha Arogya Mandir Hospital,General Medicine,4,4.6,9 Melby Place,1066412337,ICU,TRUE,TRUE,TRUE,FALSE,21,8,11,9:00 AM to 6:00 PM
+43,Trimurti Hospitals,Cardiology,3,5,8 Dapin Alley,1380589068,ICU,TRUE,TRUE,FALSE,FALSE,25,11,13,8:00 AM to 5:00 PM
+44,K J MULTISPECIALITY HOSPITAL,Gynecology,1,,2840 Tennyson Alley,5548266346,Non-ICU,TRUE,FALSE,FALSE,FALSE,21,13,11,8:30 AM to 5:30 PM
+45,Dolakia Hospital,Dentisit,3,3.1,0 Starling Court,2855684364,Non-ICU,TRUE,TRUE,TRUE,FALSE,24,11,12,9:00 AM to 6:00 PM
+46,Takvani Hospital,Orthopedics,4,2.4,6122 Hudson Terrace,9011453679,ICU,FALSE,TRUE,FALSE,,21,19,11,8:00 AM to 5:00 PM
+47,Government Civil Hospital,Pediatrics,2,4.3,0 Twin Pines Center,2609497850,ICU,TRUE,FALSE,TRUE,FALSE,7,4,4,8:30 AM to 5:30 PM
+48,Maruti Surgical Hospital,General Surgery,3,3.6,0 Pankratz Plaza,4128394799,Non-ICU,FALSE,,TRUE,FALSE,25,21,13,9:00 AM to 6:00 PM
+49,Ami Jyot Eye Hospital,Ophthalmology,2,4.8,8 Longview Park,2275852697,Non-ICU,TRUE,TRUE,FALSE,FALSE,11,11,6,8:00 AM to 5:00 PM
+50,K J MULTISPECIALITY HOSPITAL,Orthopedics,2,3.7,3 Eggendart Lane,4611918100,ICU,TRUE,FALSE,TRUE,FALSE,12,8,6,10:00 AM to 7:00 PM
+51,Shreenathji Hospital,ENT,3,4.5,970 Pawling Circle,8992728721,ICU,FALSE,FALSE,FALSE,FALSE,11,3,6,9:00 AM to 6:00 PM
+52,Harmony General Hospital ,General Medicine,2,5,36373 Cherokee Street,2845842260,Non-ICU,FALSE,TRUE,FALSE,FALSE,10,3,5,8:30 AM to 5:30 PM
+53,N.M. Lakhani Hospital,Psychiatry,1,4,4832 Pine View Drive,7112270456,Non-ICU,TRUE,FALSE,FALSE,FALSE,25,21,13,8:00 AM to 5:00 PM
+54,Madhuram Children Hospital,Orthopedics,3,4.1,610 Warrior Trail,4004332019,ICU,FALSE,TRUE,TRUE,TRUE,24,7,12,8:30 AM to 5:30 PM
+55,Dolakia Hospital,Urology,4,3.5,456 Grasskamp Park,4335872326,ICU,TRUE,FALSE,TRUE,FALSE,13,10,7,9:00 AM to 6:00 PM
+56,Takvani Hospital,Obstetrics & Gynecology,3,4.5,34 Welch Park,5588156556,ICU,TRUE,FALSE,FALSE,,18,17,9,8:00 AM to 5:00 PM
+57,Maruti Surgical Hospital,General Surgery,2,3.5,9 Sunnyside Circle,5239279706,Non-ICU,TRUE,FALSE,TRUE,FALSE,23,18,12,8:30 AM to 5:30 PM
+58,Aditya Children’s Hospital,ENT,2,,17 Hooker Parkway,1451399575,Non-ICU,TRUE,FALSE,TRUE,FALSE,19,3,10,9:00 AM to 6:00 PM
+59,Government Civil Hospital,Orthopedics,2,4.2,9058 Di Loreto Hill,2697150349,ICU,TRUE,TRUE,FALSE,TRUE,14,4,7,8:00 AM to 5:00 PM
+60,Shraddha Arogya Mandir Hospital,General Surgery,1,2.5,"Near Bus Stand, Veraval",4480525210,ICU,TRUE,FALSE,FALSE,TRUE,7,3,4,9:00 AM to 6:00 PM
+61,K J MULTISPECIALITY HOSPITAL,Oncology,3,4.6,Railway station road,3175137240,ICU,TRUE,FALSE,FALSE,FALSE,14,8,7,8:30 AM to 5:30 PM
+62,Khokhani Clinic,ENT,4,5,"Parth complex, Veraval-Prashnavada-Kodinar Rd, Sutrapada",5315272143,ICU,,TRUE,TRUE,TRUE,12,12,6,10:00 AM to 7:00 PM
+63,Barmeda Surgical Hospital,General Medicine,5,4.1,"Near Zanzarda Cross Road, Behind Aphil Tower,Junagadh",1340655414,Non-ICU,FALSE,TRUE,TRUE,TRUE,21,3,11,8:00 AM to 5:00 PM
+64,Harmony General Hospital ,General Surgery,3,2.4,"Amrut Nagar Main Rd, Amrut Nagar, Keshod",7954559668,ICU,TRUE,TRUE,FALSE,FALSE,22,11,11,9:00 AM to 6:00 PM
+65,Netra Raksha Eye Hospital,General Surgery,2,4.3,"New Main Road, beside Sandipani School, Shakti Society, Bhojalram Society",9577042489,ICU,FALSE,TRUE,TRUE,TRUE,23,19,12,8:00 AM to 5:00 PM
+66,N.M. Lakhani Hospital,Cardiology,2,3.6,"near Junagadh Bustand Road, Nehru Park Society, Rani Sati Colony",9997976027,Non-ICU,FALSE,TRUE,FALSE,FALSE,9,8,5,8:30 AM to 5:30 PM
+67,Madhuram Children Hospital,Urology,1,,"5th Floor, Hira Pana Complex, Nehru Park Society, Talav Gate, Gujarat",7161421757,ICU,TRUE,TRUE,TRUE,TRUE,23,6,12,9:00 AM to 6:00 PM
+68,Dolakia Hospital,General Medicine,4,3.7,"St Bus Stand Rd, behind hotel kaveri, Rayon Housing Society",4252632148,Non-ICU,TRUE,FALSE,TRUE,TRUE,17,11,9,8:00 AM to 5:00 PM
+69,Takvani Hospital,General Surgery,5,4.5,"2nd Floor, J B Complex, Junagadh",7491463878,Non-ICU,TRUE,FALSE,FALSE,TRUE,24,11,12,8:30 AM to 5:30 PM
+70,Life Care Hospital,General Medicine,4,4.1,"Dhasa, Gujarat 364740",6745021831,ICU,FALSE,TRUE,FALSE,FALSE,21,13,11,8:30 AM to 5:30 PM
+71,Aditya Children’s Hospital,GYnecology,3,3.5,"Rajyash Rise, Ahmedabad",7493250963,ICU,FALSE,TRUE,TRUE,TRUE,19,11,10,9:00 AM to 6:00 PM
+72,Shreenathji Hospital,Orthopedics,2,4.5,35237 Talmadge Center,6967411698,ICU,TRUE,TRUE,FALSE,,18,1,9,8:00 AM to 5:00 PM
+73,Shraddha Arogya Mandir Hospital,Dermitology,3,3.5,20917 Claremont Crossing,3400072363,Non-ICU,TRUE,FALSE,FALSE,FALSE,22,10,11,8:30 AM to 5:30 PM
+74,K J MULTISPECIALITY HOSPITAL,ENT,3,4.2,14 Sycamore Alley,3748263082,Non-ICU,FALSE,FALSE,FALSE,TRUE,11,5,6,8:00 AM to 5:00 PM
+75,Harmony General Hospital ,ENT,2,2.5,8 Springs Plaza,9414308192,ICU,TRUE,TRUE,TRUE,TRUE,26,4,13,8:30 AM to 5:30 PM
+76,Barmeda Surgical Hospital,Ophthalmology,4,4.6,8 Memorial Point,1146895923,ICU,TRUE,,TRUE,FALSE,20,8,10,9:00 AM to 6:00 PM
+77,Sunshine Hospital ,General Medicine,5,5,21052 Walton Avenue,7321325845,Non-ICU,TRUE,FALSE,,TRUE,9,5,5,8:00 AM to 5:00 PM
+78,Dolakia Hospital,Neurology,4,4.1,94 Prairieview Terrace,8555358372,Non-ICU,TRUE,TRUE,FALSE,TRUE,18,2,9,8:30 AM to 5:30 PM
+79,Shraddha Arogya Mandir Hospital,Neurology,2,4.3,93 Victoria Junction,3150866398,Non-ICU,FALSE,FALSE,FALSE,FALSE,24,18,12,8:00 AM to 5:00 PM
+80,Netra Raksha Eye Hospital,General Medicine,3,3.6,9 5th Court,2957163238,Non-ICU,TRUE,FALSE,FALSE,TRUE,24,8,12,8:30 AM to 5:30 PM
+81,Maruti Surgical Hospital,General Surgery,4,4.8,5 Sloan Pass,1228720115,Non-ICU,,TRUE,FALSE,TRUE,21,12,11,9:00 AM to 6:00 PM
+82,Government Civil Hospital,Dentisit,5,3.7,704 Knutson Circle,5395730967,ICU,TRUE,,TRUE,FALSE,13,11,7,8:00 AM to 5:00 PM
+83,Madhuram Children Hospital,Dermitology,2,5,024 Stephen Lane,3946167933,Non-ICU,FALSE,FALSE,FALSE,FALSE,13,7,7,9:00 AM to 6:00 PM
+84,Shivam Hospital,Ophthalmology,2,4.5,413 Maple Circle,5888221897,ICU,TRUE,FALSE,TRUE,TRUE,25,17,13,8:30 AM to 5:30 PM
+85,Aum Children Hospital,Gynecology,3,5,8123 Riverside Plaza,7828949797,ICU,TRUE,TRUE,FALSE,FALSE,18,6,9,8:00 AM to 5:00 PM
+86,N.M. Lakhani Hospital,Cardiology,2,4,4 Surrey Terrace,1666706855,ICU,TRUE,TRUE,TRUE,TRUE,14,1,7,9:00 AM to 6:00 PM
+87,Takvani Hospital,General Medicine,2,4.1,5 Rieder Point,4809232598,ICU,TRUE,FALSE,FALSE,FALSE,11,4,6,8:30 AM to 5:30 PM
+88,Shreenathji Hospital,Dentist,2,3.5,0923 Lyons Way,4012756729,Non-ICU,TRUE,TRUE,TRUE,FALSE,10,6,5,10:00 AM to 7:00 PM
+89,K J MULTISPECIALITY HOSPITAL,Gestrology,1,4.5,84 Clemons Pass,8306698974,Non-ICU,FALSE,FALSE,TRUE,,24,6,12,8:00 AM to 5:00 PM
+90,Life Care Hospital,General Medicine,3,3.5,0 Grover Trail,5488557664,ICU,TRUE,FALSE,FALSE,FALSE,24,7,12,9:00 AM to 6:00 PM
+91,Barmeda Surgical Hospital,Gestrology,4,3.5,9280 Schmedeman Court,7887535317,ICU,FALSE,TRUE,TRUE,TRUE,13,1,7,8:30 AM to 5:30 PM
+92,Harmony General Hospital ,Cardiology,5,4.5,3979 Summerview Junction,9863229300,ICU,FALSE,TRUE,,FALSE,25,9,13,9:00 AM to 6:00 PM
+93,Shraddha Arogya Mandir Hospital,Gynecology,3,3.5,16544 Clove Road,7987508751,ICU,TRUE,FALSE,TRUE,FALSE,9,4,5,8:00 AM to 5:00 PM
+94,Sunshine Hospital ,Neurology,2,4.2,99 Oak Junction,4933454060,Non-ICU,TRUE,FALSE,TRUE,TRUE,11,10,6,8:30 AM to 5:30 PM
+95,Dolakia Hospital,Gestrology,2,4.2,7174 Fuller Street,7817837340,Non-ICU,,TRUE,FALSE,FALSE,15,1,8,9:00 AM to 6:00 PM
+96,ABC Hospital,Pediatrics,1,,7 Morning Way,2079710465,ICU,TRUE,FALSE,FALSE,FALSE,24,17,12,8:00 AM to 5:00 PM
+97,Government Civil Hospital,Gestrology,4,4.6,32 Laurel Park,5996143517,Non-ICU,TRUE,TRUE,FALSE,TRUE,18,9,9,8:30 AM to 5:30 PM
+98,Shivam Hospital,Gestrology,5,5,27 Scofield Trail,1260883413,Non-ICU,FALSE,FALSE,,FALSE,11,2,6,9:00 AM to 6:00 PM
+99,K J MULTISPECIALITY HOSPITAL,Dentist,4,,65 Weeping Birch Court,1301044562,ICU,TRUE,TRUE,FALSE,TRUE,21,8,11,8:00 AM to 5:00 PM
+100,Aditya Children’s Hospital,General Medicine,3,2.4,593 Artisan Lane,1098979649,ICU,FALSE,FALSE,TRUE,TRUE,25,1,13,8:30 AM to 5:30 PM
+101,Shreenathji Hospital,Gynecology,2,4.3,60 Ryan Park,4895108490,ICU,FALSE,FALSE,TRUE,FALSE,25,19,13,8:00 AM to 5:00 PM
+102,Maruti Surgical Hospital,General Surgery,3,3.6,1892 Kropf Lane,2250869154,ICU,TRUE,FALSE,FALSE,FALSE,9,6,5,9:00 AM to 6:00 PM
+103,Shraddha Arogya Mandir Hospital,Ophthalmology,3,4.8,0652 Arkansas Hill,1319830162,Non-ICU,,FALSE,FALSE,TRUE,18,5,9,8:00 AM to 5:00 PM
+104,Shalby Hospital,Oncology,2,3.7,0278 Village Green Street,7804845931,Non-ICU,FALSE,,TRUE,TRUE,23,20,12,8:30 AM to 5:30 PM
+105,Harmony General Hospital ,Neurology,4,4.5,"123 Main Street,",4976439826,Non-ICU,FALSE,FALSE,TRUE,FALSE,17,14,9,9:00 AM to 6:00 PM
+106,Dolakia Hospital,ENT,5,,981 Sloan Point,3516371033,ICU,TRUE,FALSE,TRUE,FALSE,16,9,8,8:00 AM to 5:00 PM
+107,Barmeda Surgical Hospital,Oncology,4,4,14123 3rd Hill,1871852605,ICU,FALSE,FALSE,TRUE,FALSE,13,12,7,10:00 AM to 7:00 PM
+108,Takvani Hospital,Pediatrics,2,3.5,693 Westport Terrace,6240304764,Non-ICU,TRUE,,TRUE,FALSE,14,13,7,8:30 AM to 5:30 PM
+109,Shraddha Arogya Mandir Hospital,psychiatry,3,4.2,9 Melby Place,2349625929,Non-ICU,TRUE,TRUE,FALSE,FALSE,22,13,11,8:00 AM to 5:00 PM
+110,Sunshine Hospital ,ENT,4,4.2,8 Dapin Alley,6497532266,Non-ICU,TRUE,FALSE,TRUE,TRUE,18,9,9,9:00 AM to 6:00 PM
+111,N.M. Lakhani Hospital,Cardiology,5,4.1,2840 Tennyson Alley,4826752796,Non-ICU,TRUE,TRUE,TRUE,FALSE,25,4,13,8:30 AM to 5:30 PM
+112,ABC Hospital,Gynecology,2,3.1,0 Starling Court,7194064821,ICU,TRUE,TRUE,,TRUE,21,16,11,8:00 AM to 5:00 PM
+113,Shalby Hospital,Gestrology,2,3.6,6122 Hudson Terrace,8219484212,ICU,FALSE,TRUE,FALSE,FALSE,19,18,10,9:00 AM to 6:00 PM
+114,Shreenathji Hospital,Urology,4,4.8,0 Twin Pines Center,5692980964,Non-ICU,TRUE,FALSE,FALSE,TRUE,17,1,9,9:00 AM to 6:00 PM
+115,Aditya Children’s Hospital,General Surgery,5,3.7,0 Pankratz Plaza,8531718124,Non-ICU,,FALSE,TRUE,FALSE,18,15,9,8:30 AM to 5:30 PM
+116,Harmony General Hospital ,Dentist,2,4.5,8 Longview Park,4717134505,Non-ICU,TRUE,TRUE,FALSE,TRUE,24,12,12,8:00 AM to 5:00 PM
+117,Shivam Hospital,Oncology,3,4,3 Eggendart Lane,1780052983,ICU,TRUE,FALSE,TRUE,FALSE,17,8,9,10:00 AM to 7:00 PM
+118,Government Civil Hospital,Urology,4,4.1,970 Pawling Circle,2567180999,Non-ICU,TRUE,TRUE,TRUE,FALSE,22,21,11,8:30 AM to 5:30 PM
+119,Dolakia Hospital,Orthopedics,5,3.5,36373 Cherokee Street,6088252305,Non-ICU,FALSE,TRUE,FALSE,FALSE,9,8,5,8:00 AM to 5:00 PM
+120,Life Care Hospital,General Medicine,3,4.5,4832 Pine View Drive,2399581553,ICU,FALSE,TRUE,FALSE,FALSE,12,7,6,9:00 AM to 6:00 PM
+121,Maruti Surgical Hospital,General Surgery,3,3.8,610 Warrior Trail,6964027492,ICU,,,FALSE,TRUE,24,13,12,8:00 AM to 5:00 PM
+122,Barmeda Surgical Hospital,Pediatrics,4,4.2,456 Grasskamp Park,1487865437,Non-ICU,TRUE,,FALSE,FALSE,19,2,10,8:30 AM to 5:30 PM
+123,Takvani Hospital,Gestrology,2,4.2,34 Welch Park,9801888470,ICU,TRUE,TRUE,,TRUE,19,11,10,9:00 AM to 6:00 PM
+124,Shraddha Arogya Mandir Hospital,Urology,4,2.5,9 Sunnyside Circle,4543234964,Non-ICU,FALSE,TRUE,FALSE,FALSE,24,21,12,8:00 AM to 5:00 PM
+125,Shreenathji Hospital,Gestrology,3,4.6,17 Hooker Parkway,9882003245,Non-ICU,FALSE,FALSE,FALSE,TRUE,20,8,10,8:30 AM to 5:30 PM
+126,Shalby Hospital,ENT,2,5,9058 Di Loreto Hill,9993878957,ICU,TRUE,TRUE,TRUE,FALSE,21,8,11,9:00 AM to 6:00 PM
+127,Aditya Children’s Hospital,Orthopedics,1,,"Near Bus Stand, Veraval",6166936080,ICU,TRUE,TRUE,FALSE,FALSE,25,11,13,8:00 AM to 5:00 PM
+128,Harmony General Hospital ,Dermitology,0,3.1,Railway station road,4203017680,Non-ICU,TRUE,FALSE,FALSE,FALSE,21,13,11,8:30 AM to 5:30 PM
+129,Sunshine Hospital ,Orthopedics,4,2.4,"Parth complex, Veraval-Prashnavada-Kodinar Rd, Sutrapada",9161757913,Non-ICU,TRUE,TRUE,TRUE,FALSE,24,11,12,9:00 AM to 6:00 PM
+130,Newlife Womens Hospital,Gynecology,6,4.3,"Near Zanzarda Cross Road, Behind Aphil Tower,Junagadh",4671288329,ICU,FALSE,TRUE,FALSE,,21,19,11,8:00 AM to 5:00 PM
+131,Government Civil Hospital,Oncology,3,3.6,"Amrut Nagar Main Rd, Amrut Nagar, Keshod",2889957649,ICU,TRUE,FALSE,TRUE,FALSE,7,4,4,8:30 AM to 5:30 PM
+132,ABC Hospital,Orthopedics,2,4.8,"New Main Road, beside Sandipani School, Shakti Society, Bhojalram Society",4437760497,Non-ICU,FALSE,,TRUE,FALSE,25,21,13,9:00 AM to 6:00 PM
+133,Shivam Hospital,Dentisit,1,3.7,"near Junagadh Bustand Road, Nehru Park Society, Rani Sati Colony",9555037109,Non-ICU,TRUE,TRUE,FALSE,FALSE,11,11,6,8:00 AM to 5:00 PM
+134,Barmeda Surgical Hospital,ENT,4,4.5,"5th Floor, Hira Pana Complex, Nehru Park Society, Talav Gate, Gujarat",3924414157,ICU,TRUE,FALSE,TRUE,FALSE,12,8,6,10:00 AM to 7:00 PM
+135,Life Care Hospital,General Medicine,5,5,"St Bus Stand Rd, behind hotel kaveri, Rayon Housing Society",1878517199,ICU,FALSE,FALSE,FALSE,FALSE,11,3,6,9:00 AM to 6:00 PM
+136,Shraddha Arogya Mandir Hospital,Obstetrics & Gynecology,3,4,"2nd Floor, J B Complex, Junagadh",8010763009,Non-ICU,FALSE,TRUE,FALSE,FALSE,10,3,5,8:30 AM to 5:30 PM
+137,Takvani Hospital,Dentist,2,4.1,"Dhasa, Gujarat 364740",3117782201,Non-ICU,TRUE,FALSE,FALSE,FALSE,25,21,13,8:00 AM to 5:00 PM
+138,Shreenathji Hospital,psychiatry,3,3.5,"Rajyash Rise, Ahmedabad",8968476918,ICU,FALSE,TRUE,TRUE,TRUE,24,7,12,8:30 AM to 5:30 PM
+139,Shalby Hospital,Dentist,3,4.5,35237 Talmadge Center,7825844860,ICU,TRUE,FALSE,TRUE,FALSE,13,10,7,9:00 AM to 6:00 PM
+140,Aditya Children’s Hospital,Dermitology,3,3.5,20917 Claremont Crossing,1211027732,ICU,TRUE,FALSE,FALSE,,18,17,9,8:00 AM to 5:00 PM
+141,Harmony General Hospital ,Pediatrics,3,,14 Sycamore Alley,4989463100,Non-ICU,TRUE,FALSE,TRUE,FALSE,23,18,12,8:30 AM to 5:30 PM
+142,Sunshine Hospital ,Gestrology,4,4.2,8 Springs Plaza,2441831186,Non-ICU,TRUE,FALSE,TRUE,FALSE,19,3,10,9:00 AM to 6:00 PM
+143,Newlife Womens Hospital,Gestrology,3,2.5,8 Memorial Point,8007417548,ICU,TRUE,TRUE,FALSE,TRUE,14,4,7,8:00 AM to 5:00 PM
+144,Government Civil Hospital,Dermitology,5,4.6,21052 Walton Avenue,5428013923,ICU,TRUE,FALSE,FALSE,TRUE,7,3,4,9:00 AM to 6:00 PM
+145,ABC Hospital,Urology,3,5,94 Prairieview Terrace,4298160974,ICU,TRUE,FALSE,FALSE,FALSE,14,8,7,8:30 AM to 5:30 PM
+146,Shivam Hospital,Orthopedics,6,4.1,93 Victoria Junction,8138313373,ICU,,TRUE,TRUE,TRUE,12,12,6,10:00 AM to 7:00 PM
+147,Barmeda Surgical Hospital,Dentisit,2,2.4,9 5th Court,9172054114,Non-ICU,FALSE,TRUE,TRUE,TRUE,21,3,11,8:00 AM to 5:00 PM
+148,Life Care Hospital,General Medicine,4,4.3,5 Sloan Pass,5605916068,ICU,TRUE,TRUE,FALSE,FALSE,22,11,11,9:00 AM to 6:00 PM
+149,Astha Hospital,General Medicine,2,3.6,704 Knutson Circle,2000268430,ICU,FALSE,TRUE,TRUE,TRUE,23,19,12,8:00 AM to 5:00 PM
+150,Takvani Hospital,Oncology,1,,024 Stephen Lane,9494006243,Non-ICU,FALSE,TRUE,FALSE,TRUE,9,8,5,8:30 AM to 5:30 PM
+152,Trimurti Hospitals,General Medicine,4,4.5,8 Dapin Alley,7957973509,Non-ICU,FALSE,FALSE,TRUE,TRUE,10,6,10,8:00 AM to 5:00 PM
