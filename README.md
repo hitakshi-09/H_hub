@@ -16,10 +16,14 @@ This project is a Python-based interactive hospital filtering tool built from a 
 
 ## 🖼️ Preview
 ![Screenshot 2025-04-23 224619](https://github.com/user-attachments/assets/ac720779-47d0-4ac1-b49d-5bc15a142449)
+
 ![Screenshot 2025-04-23 224630](https://github.com/user-attachments/assets/22ef1fbb-bab6-43f2-a99d-98ec2cb2ef5f)
+
 ![Screenshot 2025-04-23 224642](https://github.com/user-attachments/assets/61e65485-ef2e-4b24-abe8-399baef2a9a9)
-![Screenshot 2025-04-23 224743](https://github.com/user-attachments/assets/af31d0c8-4de8-4131-845b-a74c7372581d)
+
 ![Screenshot 2025-04-23 224709](https://github.com/user-attachments/assets/f15743ee-e1d5-4882-817b-93c922817c81)
+
+![Screenshot 2025-04-23 224743](https://github.com/user-attachments/assets/af31d0c8-4de8-4131-845b-a74c7372581d)
 
 ---
 
